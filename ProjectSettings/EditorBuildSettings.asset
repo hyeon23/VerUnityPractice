@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scene1/VerPractice#1.unity
+    path: Assets/Scene1[Time]/VerPractice#1-1.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scene2[Input]/VerPractice#2-1.unity
+    guid: 1bbc821714b05864f835bf35f3742df1
+  - enabled: 1
+    path: Assets/Scene3[Collider]/VerPractice#3-1.unity
+    guid: 1aeb2730bfab0cc4fabb76f49ff2f85f
   m_configObjects: {}
