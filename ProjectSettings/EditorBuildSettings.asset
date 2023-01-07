@@ -14,4 +14,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scene3[Collider]/VerPractice#3-1.unity
     guid: 1aeb2730bfab0cc4fabb76f49ff2f85f
+  - enabled: 1
+    path: Assets/Scene4[Prefab]/VerPractice#4-1.unity
+    guid: ae7a5867c5730fd47a008dadc3bbedc7
+  - enabled: 1
+    path: Assets/Scene5[Resources]/VerPractice#5-1.unity
+    guid: d2559326a8084b447bc9895df0fec158
   m_configObjects: {}
