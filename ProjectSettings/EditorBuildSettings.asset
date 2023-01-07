@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scene2[Input]/VerPractice#2-1.unity
     guid: 1bbc821714b05864f835bf35f3742df1
   - enabled: 1
+    path: Assets/Scene2[Input]/VerPractice#2-2.unity
+    guid: d9cb58008d4e5ba46a4accf1923755f2
+  - enabled: 1
     path: Assets/Scene3[Collider]/VerPractice#3-1.unity
     guid: 1aeb2730bfab0cc4fabb76f49ff2f85f
   - enabled: 1

@@ -346,6 +346,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 1829047866}
+  bulletPrefab: {fileID: 1407817436161875377, guid: bb16963c0f0641f44beab637682d260e, type: 3}
 --- !u!135 &615943335
 SphereCollider:
   m_ObjectHideFlags: 0
