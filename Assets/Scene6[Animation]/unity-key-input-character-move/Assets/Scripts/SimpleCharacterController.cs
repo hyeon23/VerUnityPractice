@@ -12,7 +12,7 @@ public class SimpleCharacterController : MonoBehaviour
 
     void Fire()
     {
-        if (Input.GetMouseButtonDown(0))
+        if (Input.GetMouseButton(0))
         {
             Vector3 firePos = transform.position + animator.transform.forward + new Vector3(0f, 0.5f, 0f);
             var bullet = Instantiate(bulletPrefab, firePos, Quaternion.identity).GetComponent<Bullet>();
