@@ -69,6 +69,6 @@ EditorBuildSettings:
     path: Assets/Scene11[UI]/VerPractice#11-3.unity
     guid: 42bc5580880784942858c8ecc0976e26
   - enabled: 1
-    path: Assets/SceneAnimationLayer/Scenes/vehicle-system.unity
+    path: Assets/Scene6[Animation Blend & Layer]/Scenes/vehicle-system.unity
     guid: e1995a4c947c9bb4e9739f4f78ca4d1a
   m_configObjects: {}
