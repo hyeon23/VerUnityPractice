@@ -26,7 +26,7 @@ public class ImageChanger : MonoBehaviour
             index++;
             if(sprites.Length == index)
             {
-                index = 0;
+                index = 0; 
             }
         }
     }
